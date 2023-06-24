@@ -2,6 +2,12 @@
 
 Shawn Fenner's project list.
 
+## Retro Games API - PostgreSQL Version
+- Languages: JavaScript, PostgreSQL
+- Libraries/Frameworks: Node
+- Repo: https://github.com/Shawn-29/Retro-Games-API-PostgreSQL
+- Year: 2023
+
 ## Clips - Video Uploading App (Udemy Project)
 - Languages: JavaScript, HTML, CSS, Rust
 - Libraries/Frameworks: Angular, FFMpeg
