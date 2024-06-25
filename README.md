@@ -2,6 +2,12 @@
 
 Shawn Fenner's project list.
 
+## Image Effects
+- Languages: TypeScript, HTML, CSS
+- Repo: https://github.com/Shawn-29/Image-Effects
+- **Website: https://image-effects-app.netlify.app/**
+- Year: 2024
+
 ## Retro Games API - PostgreSQL Version
 - Languages: JavaScript, PostgreSQL
 - Libraries/Frameworks: Node
